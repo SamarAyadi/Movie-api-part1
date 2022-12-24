@@ -12,5 +12,5 @@ npm install
 ```
 ### To run code use : 
 ```
-npm run dev
+npm run start:dev
 ```
